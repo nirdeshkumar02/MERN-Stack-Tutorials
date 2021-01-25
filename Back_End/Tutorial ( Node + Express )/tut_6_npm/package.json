@@ -1,0 +1,15 @@
+{
+  "name": "tut_6_npm",
+  "version": "1.0.0",
+  "description": "npm training nd learning",
+  "main": "tut6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirdesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
